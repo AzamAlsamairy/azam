@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>سيرتي الذاتية</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>سيرتي الذاتية</h1>
+    </header>
+    <main>
+        <section>
+            <h2>المعلومات الشخصية</h2>
+            <p>اسمي: عزام عبدالله عبدالجبار</p>
+            <p>الجامعة: كلية العلوم الإدارية، جامعة تعز</p>
+            <p>التخصص: محاسبة</p>
+        </section>
+        <section>
+            <h2>الخبرات العملية</h2>
+            <p>انا حديث التخرج ؛ ولكنني محب للتعلم ة.</p>
+        </section>
+        <section>
+            <h2>المهارات</h2>
+            <ul>
+                <li>التحليل المالي</li>
+                <li>إعداد التقارير المالية</li>
+                <li>استخدام برامج المحاسبة</li>
+                <li>التواصل الفعال</li>
+                <li>العمل الجماعي</li>
+                <li>التفكير الإبداعي</li>
+            </ul>
+        </section>
+        <section>
+            <h2>الشهادات</h2>
+            <ul>
+                <li>بكالوريوس محاسبة، جامعة تعز</li>
+                <li>شهادة في المحاسبة الدولية، معهد XYZ</li>
+            </ul>
+        </section>
+    </main>
+</body>
+</html>
